@@ -1,0 +1,38 @@
+body {
+   padding: 0px;
+   margin: 0px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.title {
+  padding:10px;
+  margin-bottom: 15px;
+  text-align: center;
+  background-color: black;
+  color:white;
+  font-family: fantasy;
+  font-size : 20px;
+  font-style: italic;
+
+}
+
+.profile{
+  width:40%;
+  float:left;
+  margin-top: 15%; 
+}
+
+.profile2{
+  margin-top: 30%;
+}
+
+.para {
+  font-size: 18px;
+  font-family: sans-serif;
+  width:50%;
+  float: right;
+}
+

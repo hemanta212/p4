@@ -1,0 +1,39 @@
+body {
+   padding: 0px;
+   margin: 0px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.title {
+  padding:10px;
+  margin-bottom: 15px;
+  text-align: center;
+  background-color: black;
+  color:red;
+  font-family: fantasy;
+  font-size : 20px;
+  font-style: italic;
+  width: 100%;
+
+}
+.showcase {
+  background:url(showcase.jpg) no-repeat;
+  height: 100%;
+  overflow:hidden;
+  width:100%;
+  text-align: center;
+  color: white;
+}
+.showcase h1{
+  padding-top: 20%;
+}
+.box{
+  display:flex;
+}
+.container h1{
+  text-align: center;
+  padding-top: 2em;
+}
